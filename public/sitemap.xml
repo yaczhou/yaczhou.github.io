@@ -3,16 +3,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-07T16:59:32-07:00</lastmod>
+    <loc>https://yaczhou.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2026-06-07T16:59:32-07:00</lastmod>
+    <loc>https://yaczhou.github.io/cv/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://yaczhou.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/cv/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://yaczhou.github.io/tags/</loc>
   </url>
 </urlset>
