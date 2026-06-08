@@ -1,0 +1,43 @@
+baseURL: "https://yaczhou.github.io/"
+locale: en-us
+title: Kevin Zhou
+theme: ["PaperMod"]
+
+params:
+  defaultTheme: auto
+
+  profileMode:
+    enabled: false
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/yaczhou"
+    - name: email
+      url: "mailto:kevinzhou.stat@gmail.com"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: "#about"
+      weight: 10
+
+    - identifier: research
+      name: Research
+      url: "#research"
+      weight: 20
+
+    - identifier: projects
+      name: Projects
+      url: "#projects"
+      weight: 30
+
+    - identifier: cv
+      name: CV
+      url: "/files/Kevin_Zhou_CV.pdf"
+      weight: 40
+
+    - identifier: github
+      name: GitHub
+      url: "https://github.com/yaczhou"
+      weight: 50
