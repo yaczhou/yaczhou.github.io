@@ -1,6 +1,6 @@
 baseURL: "https://yaczhou.github.io/"
 locale: en-us
-title: Kevin Zhou
+title: Yancheng Zhou
 theme: ["PaperMod"]
 
 params:
@@ -34,7 +34,7 @@ menu:
 
     - identifier: cv
       name: CV
-      url: "/files/Kevin_Zhou_CV.pdf"
+      url: "/files/cv.pdf"
       weight: 40
 
     - identifier: github
