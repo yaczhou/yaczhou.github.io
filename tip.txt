@@ -1,0 +1,4 @@
+cd ~/Desktop/yaczhou.github.io
+hugo server -D --disableFastRender
+
+http://localhost:1313/

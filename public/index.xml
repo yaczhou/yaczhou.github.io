@@ -2,18 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kevin Zhou</title>
-    <link>https://yaczhou.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Kevin Zhou</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://yaczhou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jun 2026 16:59:32 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sun, 07 Jun 2026 16:59:32 -0700</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description></description>
+    </item>
     <item>
       <title>CV</title>
-      <link>https://yaczhou.github.io/cv/</link>
+      <link>http://localhost:1313/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yaczhou.github.io/cv/</guid>
+      <guid>http://localhost:1313/cv/</guid>
       <description>&lt;p&gt;You can download my CV here:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://yaczhou.github.io/files/Kevin_Zhou_CV.pdf&#34;&gt;CV PDF&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/files/Kevin_Zhou_CV.pdf&#34;&gt;CV PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
